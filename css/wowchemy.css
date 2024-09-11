@@ -3278,7 +3278,7 @@ input[type="button"].btn-block {
     color: #9A3324; }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #34495e; }
+  color: #313131; }
   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
     color: rgba(0, 0, 0, 0.7); }
   .navbar-light .navbar-nav .nav-link.disabled {
@@ -3291,14 +3291,14 @@ input[type="button"].btn-block {
   color: #9A3324; }
 
 .navbar-light .navbar-toggler {
-  color: #34495e;
+  color: #313131;
   border-color: transparent; }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='%2334495e' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='%23313131' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
 
 .navbar-light .navbar-text {
-  color: #34495e; }
+  color: #313131; }
   .navbar-light .navbar-text a {
     color: #9A3324; }
     .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
@@ -8160,7 +8160,7 @@ a.summary-link {
 
 .dropdown-menu {
   background-color: #fff !important;
-  color: #34495e !important;
+  color: #313131 !important;
   z-index: 1032; }
 
 .navbar {
@@ -8186,7 +8186,7 @@ a.summary-link {
     .navbar .navbar-nav .nav-link {
       color: rgba(52, 73, 94, 0.85); }
       .navbar .navbar-nav .nav-link.active, .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
-        color: #34495e; }
+        color: #313131; }
       .navbar .navbar-nav .nav-link.active {
         font-weight: bold !important;
         color: #9A3324 !important; }
@@ -8263,7 +8263,7 @@ a.summary-link {
   max-width: fit-content; }
 
 #navbar-main .main-menu-item ul li .nav-link {
-  color: #34495e; font-family: "Inter", sans-serif;}
+  color: #313131; font-family: "Inter", sans-serif;}
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
   color: white; }
@@ -8319,7 +8319,7 @@ ul.nav-icons li.nav-item a.nav-link {
 
 .dropdown-item {
   background-color: #fff !important;
-  color: #34495e !important; }
+  color: #313131 !important; }
 
 .dark .dropdown-item {
   background-color: #282a36 !important;
