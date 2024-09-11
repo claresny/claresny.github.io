@@ -7308,7 +7308,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Unna", sans-serif;
+  font-family: "Unna", serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -8245,6 +8245,7 @@ a.summary-link {
 .navbar-brand {
   padding-top: 5px;
   padding-bottom: 5px;
+  font-family: "Unna", serif;
   font-weight: bold;
   position: relative;
   z-index: 1030; }
@@ -9106,7 +9107,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "Unna", sans-serif;
+  font-family: "Unna", serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
