@@ -7296,7 +7296,6 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Inter", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizelegibility; }
@@ -8263,7 +8262,7 @@ a.summary-link {
   max-width: fit-content; }
 
 #navbar-main .main-menu-item ul li .nav-link {
-  color: #34495e; }
+  color: #34495e; font-family: "Inter", sans-serif;}
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
   color: white; }
