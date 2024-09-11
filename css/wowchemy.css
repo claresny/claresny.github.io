@@ -8189,13 +8189,13 @@ a.summary-link {
         color: #34495e; }
       .navbar .navbar-nav .nav-link.active {
         font-weight: bold !important;
-        color: #2962ff !important; }
+        color: #9A3324 !important; }
   .navbar .dropdown-menu {
     font-size: 16.17px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;
-    color: #2962ff !important; }
+    color: #9A3324 !important; }
 
 .dark .navbar {
   background: #282a36;
