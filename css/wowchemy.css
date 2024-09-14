@@ -9743,6 +9743,9 @@ div.chart {
 /*Clare from Claude*/
 .content-wrapper {
     overflow: hidden; /* Clearfix */
+    display: flex;
+    flex-direction: row; /* Places the text and image side by side */
+    align-items: center;
 }
 
 .image-container {
@@ -9769,4 +9772,7 @@ div.chart {
         display: block;
         margin: 20px auto;
     }
+  .content-wrapper {
+    flex-direction: column; /* Stacks the image below the text */
+  }
 }
